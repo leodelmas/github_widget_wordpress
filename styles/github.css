@@ -1,0 +1,23 @@
+.plugin_img
+{
+	text-align: center;
+	margin-bottom: 25px;
+}
+
+.repo_title
+{
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.commits_list
+{
+	font-size: 20px;
+}
+
+.commit_author
+{
+	font-style: italic;
+	font-size: 14px;
+}
